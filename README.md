@@ -1,5 +1,5 @@
 # bitclout
-Stource and docs
+Source and docs
 
 Bitclout is a scam but convincing people of that takes some work.
 

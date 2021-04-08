@@ -7,3 +7,8 @@ This project gathers information about Bitclout's code, APIs, 3rd party integrat
 
 Related work (began as a Reddit thread in r/Bitclout):
 https://www.reddit.com/r/BitClout/comments/mhpwjx/reverse_engineering_bitclout/
+
+Bitclout Architecture Digram (work in progress)
+
+![Bitclout Architecture](bitclout-architecture-v1.png)
+

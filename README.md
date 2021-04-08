@@ -10,5 +10,5 @@ https://www.reddit.com/r/BitClout/comments/mhpwjx/reverse_engineering_bitclout/
 
 Bitclout Architecture Digram (work in progress)
 
-![Bitclout Architecture](bitclout-architecture-v1.png)
+![Bitclout Architecture](bitclout-arch-diagram-2021-04-08.png)
 

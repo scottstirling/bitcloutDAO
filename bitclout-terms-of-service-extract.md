@@ -29,7 +29,7 @@ The Interface is provided on an "AS IS" and "AS AVAILABLE" basis. To the fullest
 
 ## 6. Consumptive Use
 
-When you purchase or otherwise acquire BitClout or Creator Coins (collectively, "BitClout Coins", you represent, warrant and agree that:
+When you purchase or otherwise acquire BitClout or Creator Coins (collectively, "BitClout Coins"), you represent, warrant and agree that:
 
 - (i) you are acquiring Bitclout Coins solely for consumptive use in connection with the Blockchain and not for distribution;  
 - (ii) you are not acquiring Bitclout Coins as an investment and you have no expectation of economic benefit or profit as a holder of Bitclout Coins;

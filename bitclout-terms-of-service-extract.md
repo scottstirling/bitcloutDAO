@@ -9,7 +9,7 @@ This Terms of Service Agreement (the "Agreement" explains the terms and conditio
 
 ## 1. Modification of this Agreement
 
-The operators of the Interface and any and all developers of the Blockchain (collectively, the "Community") reserve the right, in their sole discretion, to modify this Agreement from time to time. If the Community makes any modifications, the Community will notify you by updating the date at the top of the Agreement. All modifications will be effective when they are posted, and your continued use of the Interface will serve as confirmation of your acceptance of those modifications. If you do not agree with any modifications to this Agreement, you must immediately stop accessing and using the Interface.')
+The operators of the Interface and any and all developers of the Blockchain (collectively, the "Community") reserve the right, in their sole discretion, to modify this Agreement from time to time. If the Community makes any modifications, the Community will notify you by updating the date at the top of the Agreement. All modifications will be effective when they are posted, and your continued use of the Interface will serve as confirmation of your acceptance of those modifications. If you do not agree with any modifications to this Agreement, you must immediately stop accessing and using the Interface.
 
 ## 2. Eligibility
 
@@ -58,7 +58,7 @@ The Interface may contain references or links to third-party resources, includin
 
 ## 11. Release of Claims
 
-You expressly agree that you assume all risks in connection with your access and use of the Interface and your interaction with the Blockchain. You further expressly waive and release the Community from any and all liability, claims, causes of action, or damages arising from or in any way relating to your use of the Interface and your interaction with the Blockchain. If you are a California resident, you waive the benefits and protections of California Civil Code Section 1542, which provides: "[a] general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party.
+You expressly agree that you assume all risks in connection with your access and use of the Interface and your interaction with the Blockchain. You further expressly waive and release the Community from any and all liability, claims, causes of action, or damages arising from or in any way relating to your use of the Interface and your interaction with the Blockchain. If you are a California resident, you waive the benefits and protections of California Civil Code Section 1542, which provides: "[a] general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party."
 
 ## 12. Indemnity
 

@@ -79,6 +79,6 @@ Any claim or controversy arising out of or relating to the Interface, this Agree
 You must bring any and all Disputes against the Community in your individual capacity and not as a plaintiff in or member of any purported class action, collective action, private attorney general action, or other representative proceeding. This provision applies to class arbitration. You and the Community both agree to waive the right to demand a trial by jury.
 
 
-###16. Governing Law
+##16. Governing Law
 
 You agree that the laws of the State of Wyoming, without regard to principles of conflict of laws, govern this Agreement and any Dispute between you and the Community. You further agree that the Interface shall be deemed to be based solely in the State of Wyoming, and that although the Interface may be available in other jurisdictions, its availability does not give rise to general or specific personal jurisdiction in any forum outside the State of Wyoming. Any arbitration conducted pursuant to this Agreement shall be governed by the Federal Arbitration Act. You agree that Jackson Hole, Wyoming is the proper forum for any appeals of an arbitration award or for court proceedings in the event that this Agreement\u2019s binding arbitration clause is found to be unenforceable.

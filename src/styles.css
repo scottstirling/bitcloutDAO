@@ -16821,6 +16821,14 @@ pre {
     box-shadow: none
 }
 
+.js-feed-post-hover:hover {
+    background-color: #fafafa
+}
+
+.feed-post__quoted-content:hover {
+    background-color: #f0f0f0 !important
+}
+
 .feed-post__dropdown-menu-item:hover {
     background-color: #f8f8f8
 }

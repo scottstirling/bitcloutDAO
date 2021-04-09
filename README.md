@@ -1,7 +1,7 @@
-# ![$BitClout](assets/img/camelcase_logo.svg)
+# ![$BitClout](src/assets/img/camelcase_logo.svg)
 This project gathers BitClout's code and offers analysis of its APIs, 3rd party integrations and architecture.
 
-BitClout is a pay-to-play social network and game. It is a scam if considered, sold or promoted as a financial investment.  BitClout should be thought more of as a a game or a vending machine that accepts Bitcoin irreversibly in exchange for a game currency called BitClout and a token called Creator Coin.  One can buy a token with BitClout.  One can buy either with Bitcoin.  But it is impossible to refund or withdraw Bitcoin back from the system, nor is there any declaration of intention to ever make it otherwise in the one-pager pdf or the terms and conditions (which are hidden in the source code and documented in this project).  BitClout is a game and it costs Bitcoin (and a valid phone number) to play.
+BitClout is a pay-to-play social network and game. It is a scam if considered, sold or promoted as a financial investment.  BitClout should be thought more of as a a game or a vending machine that accepts Bitcoin irreversibly in exchange for a game currency called BitClout and a token called Creator Coin.  One can buy a token with BitClout.  One can buy either with Bitcoin.  But it is impossible to refund or withdraw Bitcoin back from the system, nor is there any declaration of intention to ever make it otherwise in the one-pager pdf or the terms and conditions (which are hidden in the source code and documented in this project [here](docs/bitclout-terms-of-service-extract.md)).  BitClout is a game and it costs Bitcoin (and a valid phone number) to play.
 
 Completing your profile, at minimum, requires a phone number that can receive text messages for confirmation.
 
@@ -28,5 +28,5 @@ https://www.reddit.com/r/BitClout/comments/mhpwjx/reverse_engineering_bitclout/
 
 BitClout Architecture Diagram (WIP)
 
-![Bitclout Architecture](bitclout-arch-diagram-2021-04-08.png)
+![Bitclout Architecture](docs/diagram/bitclout-arch-diagram-2021-04-08.png)
 

@@ -35,7 +35,7 @@ When you purchase or otherwise acquire BitClout or Creator Coins (collectively, 
 - (ii) you are not acquiring Bitclout Coins as an investment and you have no expectation of economic benefit or profit as a holder of Bitclout Coins;
 - (iii) you are acquiring Bitclout Coins for your own use and not with a view to sell the Bitclout Coins to anyone else;
 - (iv) you are not acquiring any equity or other ownership or legal interest in the Interface or the Blockchain by virtue of owning Bitclout Coins;
-- (v) tyou will not portray Bitclout Coins as an investment or an opportunity to obtain an economic benefit or profit;
+- (v) you will not portray Bitclout Coins as an investment or an opportunity to obtain an economic benefit or profit;
 - (vi) you have an adequate understanding of the functionality and characteristics of Bitclout Coins and the differences between BitClout and Creator Coins; 
 - (vii) your purchase and use of Bitclout Coins complies with applicable laws and regulations in your jurisdiction, including, without limitation, legal capacity, regulatory restrictions and governmental consents; and 
 - (viii) you will not use Bitclout Coins for any illegal purpose within or outside of the Blockchain or the Interface.
@@ -62,7 +62,7 @@ You expressly agree that you assume all risks in connection with your access and
 
 ## 12. Indemnity
 
-You agree to hold harmless, release, defend, and indemnify the Community from and against all claims, damages, obligations, losses, liabilities, costs, and expenses arising from: (a) your access and use of the Interface; (b) your violation of any term or condition of this Agreement, the right of any third party, or any other applicable law, rule, or regulation; and (c) any other party\u2019s access and use of the Interface with your assistance or using any device or account that you own or control.
+You agree to hold harmless, release, defend, and indemnify the Community from and against all claims, damages, obligations, losses, liabilities, costs, and expenses arising from: (a) your access and use of the Interface; (b) your violation of any term or condition of this Agreement, the right of any third party, or any other applicable law, rule, or regulation; and (c) any other party's access and use of the Interface with your assistance or using any device or account that you own or control.
 
 ## 13. Limitation of Liability
 
@@ -81,4 +81,4 @@ You must bring any and all Disputes against the Community in your individual cap
 
 ## 16. Governing Law
 
-You agree that the laws of the State of Wyoming, without regard to principles of conflict of laws, govern this Agreement and any Dispute between you and the Community. You further agree that the Interface shall be deemed to be based solely in the State of Wyoming, and that although the Interface may be available in other jurisdictions, its availability does not give rise to general or specific personal jurisdiction in any forum outside the State of Wyoming. Any arbitration conducted pursuant to this Agreement shall be governed by the Federal Arbitration Act. You agree that Jackson Hole, Wyoming is the proper forum for any appeals of an arbitration award or for court proceedings in the event that this Agreement\u2019s binding arbitration clause is found to be unenforceable.
+You agree that the laws of the State of Wyoming, without regard to principles of conflict of laws, govern this Agreement and any Dispute between you and the Community. You further agree that the Interface shall be deemed to be based solely in the State of Wyoming, and that although the Interface may be available in other jurisdictions, its availability does not give rise to general or specific personal jurisdiction in any forum outside the State of Wyoming. Any arbitration conducted pursuant to this Agreement shall be governed by the Federal Arbitration Act. You agree that Jackson Hole, Wyoming is the proper forum for any appeals of an arbitration award or for court proceedings in the event that this Agreement's binding arbitration clause is found to be unenforceable.

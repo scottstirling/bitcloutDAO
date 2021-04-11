@@ -17,18 +17,17 @@ The following functions cost *Bitcoin* to get started. The prices are set by the
 - creating and saving or changing a profile image
 - creating and saving or updating profile content
 
-All actions are really based on blockcypher.com and other vendors services, technology and APIs, which makes setting up the technology for BitClout a very low bar.  All of the strongest technical aspects of BitClout are based on Cloudflare, Angular, blockcypher.com, imgur.com, Node js, Nginx, Google Fonts, Bootstrap CSS and GoDaddy's https://domainsbyproxy.com (who have a subpoena policy posted on their public site) obscuring the owners and creators behind BitClout.
+All actions are really based on blockcypher.com and other vendors services, technology and APIs, which makes setting up the technology for BitClout primarily an orchestration of services and APIs tied together through a web UI.  All of the strongest technical aspects of BitClout are based on Cloudflare, Angular, blockcypher.com, imgur.com, various 3rd party libraries (see below) and GoDaddy's https://domainsbyproxy.com (who have a subpoena policy posted on their public site) obscuring the owners and creators behind BitClout.
 
-Partial list of other projects referenced and used in BitClout's Angular code:
+By the same token, the mastery orchestrating the components of the BitClout "solution" and carrying it off so far is respectable.
+
+Partial list of other projects and services referenced and used in BitClout's Angular code:
+
 - https://github.com/twitter/twemoji - "Twemoji library offers support for 3,304 emojis"
 - https://github.com/sweetalert2/sweetalert2 - "replacement for JavaScript's popup boxes"
 - https://github.com/indutny/elliptic - "Fast elliptic-curve cryptography in a plain javascript"
 - https://github.com/crypto-browserify/crypto-browserify - "A port of node's crypto module to the browser."
 - https://github.com/google/closure-library - "JavaScript library designed for building complex and scalable web applications. It is used by many Google web applications, such as Google Search, Gmail, Google Docs, Google+, Google Maps, and others."
-
-By the same token, the mastery orchestrating the components of the BitClout "solution" and carrying it off so far is respectable.
-
-Other services used by the BitClout UI:
 - https://amp.bitclout.com - endpoint for gathering analytics about user activity and transactions to send to an Amplitude (https://www.amplitude.com/) account.
 - https://bitcoinfees.earn.com/api/v1/fees/recommended - gets the current price for transaction fees transacted on BitClout.
 - https://api.blockcypher.com/v1/btc/main/addrs/${e}/full?token=... - see blockcypher public api docs

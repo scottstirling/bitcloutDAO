@@ -39,7 +39,7 @@ Other services used by the BitClout UI:
 - https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki - Bitcoin BIP "describes the implementation of a mnemonic code or mnemonic sentence -- a group of easy to remember words -- for the generation of deterministic wallets."
 - https://wallet.mycelium.com/ - Bitcoin wallet software
 - https://electrum.org - Bitcoin wallet software
-- https://iancoleman.io/bip39/ - menomic code converter for Bitcoing BIP 39 ^
+- https://iancoleman.io/bip39/ - menomic code converter for Bitcoin BIP 39 ^
 
 
 Related work (began as a Reddit thread in r/Bitclout):

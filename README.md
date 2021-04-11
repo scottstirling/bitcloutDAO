@@ -41,6 +41,8 @@ Other services used by the BitClout UI:
 - https://electrum.org - Bitcoin wallet software
 - https://iancoleman.io/bip39/ - menomic code converter for Bitcoin BIP 39 ^
 
+Likely source for BitClout's https://explorer.bitclout.com:
+- https://github.com/blockcypher/explorer - BlockCypher's open source blockchain explorer project
 
 Related work (began as a Reddit thread in r/Bitclout):
 https://www.reddit.com/r/BitClout/comments/mhpwjx/reverse_engineering_bitclout/

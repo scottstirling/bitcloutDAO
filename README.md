@@ -17,7 +17,7 @@ The following functions cost *Bitcoin* to get started. The prices are set by the
 - creating and saving or changing a profile image
 - creating and saving or updating profile content
 
-All actions are really based on blockcypher.com and other vendors services, technology and APIs, which makes setting up the technology for BitClout a very low bar.  All of the strongest technical aspects of BitClout are based on Cloudflare, Angular, blockcypher.com, imgur.com, Node js, Nginx, Google Fonts, Bootstrap CSS and GoDaddy's domainsbyproxy.com (who have a subpoena policy posted on their public site) obscuring the owners and creators behind BitClout.
+All actions are really based on blockcypher.com and other vendors services, technology and APIs, which makes setting up the technology for BitClout a very low bar.  All of the strongest technical aspects of BitClout are based on Cloudflare, Angular, blockcypher.com, imgur.com, Node js, Nginx, Google Fonts, Bootstrap CSS and GoDaddy's https://domainsbyproxy.com (who have a subpoena policy posted on their public site) obscuring the owners and creators behind BitClout.
 
 Partial list of other projects referenced and used in BitClout's Angular code:
 - https://github.com/twitter/twemoji - "Twemoji library offers support for 3,304 emojis"
@@ -33,17 +33,27 @@ Other services used by the BitClout UI:
 - https://bitcoinfees.earn.com/api/v1/fees/recommended - gets the current price for transaction fees transacted on BitClout.
 - https://api.blockcypher.com/v1/btc/main/addrs/${e}/full?token=... - see blockcypher public api docs
 - https://api.blockcypher.com/v1/btc/test3/addrs/${e}/full?token... - test endpoint for ^
-- https://i.imgur.com/<name.ext> - images and pics posted by users
-- https://api.imgur.com/3/image/ + 8156989fa971a3b Client-ID (header?) to upload to imgur
 - https://blockchain.info/ticker - api used to obtain exchange rate of Bitcoin in USD every 1 second in the background.
 - https://twitter.com/intent/tweet?text= ... - for users to click for "Just setting up my bitclout ..." Tweet
 - https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki - Bitcoin BIP "describes the implementation of a mnemonic code or mnemonic sentence -- a group of easy to remember words -- for the generation of deterministic wallets."
 - https://wallet.mycelium.com/ - Bitcoin wallet software
 - https://electrum.org - Bitcoin wallet software
 - https://iancoleman.io/bip39/ - menomic code converter for Bitcoin BIP 39 ^
+- https://api.imgur.com/3/image/ + 8156989fa971a3b Client-ID (header?) to upload to imgur
+- https://i.imgur.com/<name.ext> - images and pics posted by users
+- https://fontawesome.com/ - fonts and logos
+- https://fonts.gstatic.com/, https://fonts.googleapis.com - fonts
 
 Likely source for BitClout's https://explorer.bitclout.com:
 - https://github.com/blockcypher/explorer - BlockCypher's open source blockchain explorer project
+
+
+TODO - other related sites referenced in code:
+- https://api.bitclout.green, https://api.bitclout.blue, https://api.bitclout.navy - different API endpoints for ...?
+- megamoons.com - ?
+- https://api.bitpop.dev - ? protected by CloudFlare, seems to be used for logging activity from the UI (?)
+- bitpop.cash - ?
+- bitclout.fun - ?
 
 Related work (began as a Reddit thread in r/Bitclout):
 https://www.reddit.com/r/BitClout/comments/mhpwjx/reverse_engineering_bitclout/

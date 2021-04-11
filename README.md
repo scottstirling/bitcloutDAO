@@ -24,9 +24,22 @@ Partial list of other projects referenced and used in BitClout's Angular code:
 - https://github.com/sweetalert2/sweetalert2 - "replacement for JavaScript's popup boxes"
 - https://github.com/indutny/elliptic - "Fast elliptic-curve cryptography in a plain javascript"
 - https://github.com/crypto-browserify/crypto-browserify - "A port of node's crypto module to the browser."
+- https://github.com/google/closure-library - "JavaScript library designed for building complex and scalable web applications. It is used by many Google web applications, such as Google Search, Gmail, Google Docs, Google+, Google Maps, and others."
 
 By the same token, the mastery orchestrating the components of the BitClout "solution" and carrying it off so far is respectable.
 
+Other services used by the BitClout UI:
+- https://bitcoinfees.earn.com/api/v1/fees/recommended - gets the current price for transaction fees transacted on BitClout.
+- https://api.blockcypher.com/v1/btc/main/addrs/${e}/full?token=... - see blockcypher public api docs
+- https://api.blockcypher.com/v1/btc/test3/addrs/${e}/full?token... - test endpoint for ^
+- https://i.imgur.com/<name.ext> - images and pics posted by users
+- https://api.imgur.com/3/image/ + 8156989fa971a3b Client-ID (header?) to upload to imgur
+- https://blockchain.info/ticker - api used to obtain exchange rate of Bitcoin in USD every 1 second in the background.
+- https://twitter.com/intent/tweet?text= ... - for users to click for "Just setting up my bitclout ..." Tweet
+- https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki - Bitcoin BIP "describes the implementation of a mnemonic code or mnemonic sentence -- a group of easy to remember words -- for the generation of deterministic wallets."
+- https://wallet.mycelium.com/ - Bitcoin wallet software
+- https://electrum.org - Bitcoin wallet software
+- https://iancoleman.io/bip39/ - menomic code converter for Bitcoing BIP 39 ^
 
 
 Related work (began as a Reddit thread in r/Bitclout):

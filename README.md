@@ -17,7 +17,13 @@ The following functions cost *Bitcoin* to get started. The prices are set by the
 - creating and saving or changing a profile image
 - creating and saving or updating profile content
 
-All actions are really based on blockcypher.com and other vendors services, technology and APIs, which makes setting up the technology for BitClout a very low bar.  All of the strongest technical aspects of BitClout are based on Cloudflare, Angular, blockcypher.com, imgur.com, Node js, Nginx, Google Fonts, Bootstrap CSS and GoDaddy's domainsbyproxy.com (who have a subpoena policy posted on their public site) obscuring the owners and creators behind BitClout.  
+All actions are really based on blockcypher.com and other vendors services, technology and APIs, which makes setting up the technology for BitClout a very low bar.  All of the strongest technical aspects of BitClout are based on Cloudflare, Angular, blockcypher.com, imgur.com, Node js, Nginx, Google Fonts, Bootstrap CSS and GoDaddy's domainsbyproxy.com (who have a subpoena policy posted on their public site) obscuring the owners and creators behind BitClout.
+
+Partial list of other projects referenced and used in BitClout's Angular code:
+- https://github.com/twitter/twemoji - "Twemoji library offers support for 3,304 emojis"
+- https://github.com/sweetalert2/sweetalert2 - "replacement for JavaScript's popup boxes"
+- https://github.com/indutny/elliptic - "Fast elliptic-curve cryptography in a plain javascript"
+- ttps://github.com/crypto-browserify/crypto-browserify - "A port of node's crypto module to the browser."
 
 By the same token, the mastery orchestrating the components of the BitClout "solution" and carrying it off so far is respectable.
 

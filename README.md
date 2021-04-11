@@ -19,7 +19,9 @@ The following functions cost *Bitcoin* to get started. The prices are set by the
 
 All actions are really based on blockcypher.com and other vendors services, technology and APIs, which makes setting up the technology for BitClout primarily an orchestration of services and APIs tied together through a web UI.  All of the strongest technical aspects of BitClout are based on Cloudflare, Angular, blockcypher.com, imgur.com, various 3rd party libraries (see below) and GoDaddy's https://domainsbyproxy.com (who have a subpoena policy posted on their public site) obscuring the owners and creators behind BitClout.
 
-By the same token, the mastery orchestrating the components of the BitClout "solution" and carrying it off so far is respectable.
+By the same token, the mastery orchestrating the components of the BitClout "solution" and carrying it off so far is respectable.  
+
+The BitClout one pager / whitepaper (7 pages) is a masterwork of rhetoric: enthymemes and triggers to encourage readers to jump to conclusions, confirm biases and desired outcomes and act on positive emotional response rather than careful analysis.
 
 Partial list of other projects and services referenced and used in BitClout's Angular code:
 

@@ -23,7 +23,7 @@ Partial list of other projects referenced and used in BitClout's Angular code:
 - https://github.com/twitter/twemoji - "Twemoji library offers support for 3,304 emojis"
 - https://github.com/sweetalert2/sweetalert2 - "replacement for JavaScript's popup boxes"
 - https://github.com/indutny/elliptic - "Fast elliptic-curve cryptography in a plain javascript"
-- ttps://github.com/crypto-browserify/crypto-browserify - "A port of node's crypto module to the browser."
+- https://github.com/crypto-browserify/crypto-browserify - "A port of node's crypto module to the browser."
 
 By the same token, the mastery orchestrating the components of the BitClout "solution" and carrying it off so far is respectable.
 

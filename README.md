@@ -33,6 +33,7 @@ GitHub projects:
 - https://github.com/crypto-browserify/browserify-rsa - "RSA private decryption/signing"
 - https://github.com/crypto-browserify/crypto-browserify - "A port of node's crypto module to the browser."
 - https://github.com/crypto-browserify/parse-asn1 - "utility library for parsing asn1 files for use with browserify-sign."
+- https://github.com/crypto-browserify/randombytes - randombytes from Node js for browser apps.
 - https://github.com/google/closure-library - "used by many Google web applications, such as Google Search, Gmail, Google Docs, Google+, Google Maps, and others."
 - https://github.com/google/libphonenumber - "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers." 
 - https://github.com/indutny/bn.js/ - "BigNum in pure javascript"

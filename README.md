@@ -25,21 +25,25 @@ The BitClout one pager / whitepaper (7 pages) is a masterwork of rhetoric: enthy
 
 Partial list of other projects and services referenced and used in BitClout's Angular code:
 
-- https://github.com/twitter/twemoji - "Twemoji library offers support for 3,304 emojis"
-- https://github.com/sweetalert2/sweetalert2 - "replacement for JavaScript's popup boxes"
-- https://github.com/indutny/elliptic - "Fast elliptic-curve cryptography in a plain javascript"
+GitHub projects:
+- https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki - Bitcoin BIP "describes the implementation of a mnemonic code or mnemonic sentence -- a group of easy to remember words -- for the generation of deterministic wallets."
 - https://github.com/crypto-browserify/crypto-browserify - "A port of node's crypto module to the browser."
-- https://github.com/google/closure-library - "JavaScript library designed for building complex and scalable web applications. It is used by many Google web applications, such as Google Search, Gmail, Google Docs, Google+, Google Maps, and others."
+- https://github.com/google/closure-library - "used by many Google web applications, such as Google Search, Gmail, Google Docs, Google+, Google Maps, and others."
+- https://github.com/google/libphonenumber - "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers." 
+- https://github.com/indutny/elliptic - "Fast elliptic-curve cryptography in a plain javascript"
+- https://github.com/sweetalert2/sweetalert2 - "replacement for JavaScript's popup boxes"
+- https://github.com/twitter/twemoji - "Twemoji library offers support for 3,304 emojis"
+
+Other products, projects and services used in code and refrenced in code:
 - https://amp.bitclout.com - endpoint for gathering analytics about user activity and transactions to send to an Amplitude (https://www.amplitude.com/) account.
-- https://bitcoinfees.earn.com/api/v1/fees/recommended - gets the current price for transaction fees transacted on BitClout.
 - https://api.blockcypher.com/v1/btc/main/addrs/${e}/full?token=... - see blockcypher public api docs
 - https://api.blockcypher.com/v1/btc/test3/addrs/${e}/full?token... - test endpoint for ^
+- https://bitcoinfees.earn.com/api/v1/fees/recommended - gets the current price for transaction fees transacted on BitClout.
 - https://blockchain.info/ticker - api used to obtain exchange rate of Bitcoin in USD every 1 second in the background.
-- https://twitter.com/intent/tweet?text= ... - for users to click for "Just setting up my bitclout ..." Tweet
-- https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki - Bitcoin BIP "describes the implementation of a mnemonic code or mnemonic sentence -- a group of easy to remember words -- for the generation of deterministic wallets."
-- https://wallet.mycelium.com/ - Bitcoin wallet software
 - https://electrum.org - Bitcoin wallet software
 - https://iancoleman.io/bip39/ - menomic code converter for Bitcoin BIP 39 ^
+- https://twitter.com/intent/tweet?text= ... - for users to click for "Just setting up my bitclout ..." Tweet
+- https://wallet.mycelium.com/ - Bitcoin wallet software
 - https://api.imgur.com/3/image/ + 8156989fa971a3b Client-ID (header?) to upload to imgur
 - https://i.imgur.com/<name.ext> - images and pics posted by users
 - https://fontawesome.com/ - fonts and logos

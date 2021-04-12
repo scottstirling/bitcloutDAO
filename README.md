@@ -60,13 +60,11 @@ TODO - other related sites referenced in code:
 - bitpop.cash - ?
 - bitclout.fun - ?
 
-Related work (began as a Reddit thread in r/Bitclout):
-https://www.reddit.com/r/BitClout/comments/mhpwjx/reverse_engineering_bitclout/
-
-
 Listing of BitClout's APIs as dervived from main.js: see https://github.com/scottstirling/bitclout/issues/20
 
 BitClout Architecture Diagram (WIP)
 
 ![Bitclout Architecture](docs/diagram/bitclout-arch-diagram-2021-04-08.png)
 
+Related work (began as a Reddit thread in r/Bitclout):
+https://www.reddit.com/r/BitClout/comments/mhpwjx/reverse_engineering_bitclout/

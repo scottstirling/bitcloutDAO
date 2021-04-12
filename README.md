@@ -27,6 +27,8 @@ Partial list of other projects and services referenced and used in BitClout's An
 
 GitHub projects:
 - https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki - Bitcoin BIP "describes the implementation of a mnemonic code or mnemonic sentence -- a group of easy to remember words -- for the generation of deterministic wallets."
+- https://github.com/bitcoinjs/bitcoinjs-lib - "A javascript Bitcoin library for node.js and browsers."
+- https://github.com/browserify/browserify - "build a bundle you can serve up to the browser in a single <script> tag."
 - https://github.com/crypto-browserify/crypto-browserify - "A port of node's crypto module to the browser."
 - https://github.com/google/closure-library - "used by many Google web applications, such as Google Search, Gmail, Google Docs, Google+, Google Maps, and others."
 - https://github.com/google/libphonenumber - "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers." 

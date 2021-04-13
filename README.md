@@ -5,7 +5,7 @@ BitClout is a pay-to-play social network and game. It is a scam if considered, s
 
 Completing your profile, at minimum, requires a phone number that can receive text messages for confirmation. Allegedly one can pay ~$60 in Bitcoin as an alternative, but I have not tested that.
 
-All content posted by users is stored in and accessible via public cloud storage on imgur.com.
+All image content posted by users is stored in and accessible via public cloud storage on imgur.com.
 
 Registered users can like and follow each other, post their own and promote other accounts' content, and spend Bitcoin on BitClout, then send BitClout to other wallets on the BitClout network, all of which costs, at minimum, a verified phone number and the price of Bitcoin transaction fees at current market rate (once Bitcoin has been used to purchase BitClout).  
 

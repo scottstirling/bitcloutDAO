@@ -47,10 +47,10 @@ Other products, projects and services used in code and refrenced in code:
 - https://api.blockcypher.com/v1/btc/test3/addrs/${e}/full?token... - test endpoint for ^
 - https://bitcoinfees.earn.com/api/v1/fees/recommended - gets the current price for transaction fees transacted on BitClout.
 - https://blockchain.info/ticker - api used to obtain exchange rate of Bitcoin in USD every 1 second in the background.
-- https://electrum.org - Bitcoin wallet software
+- https://electrum.org - Bitcoin wallet software mentioned and link in UI
 - https://iancoleman.io/bip39/ - menomic code converter for Bitcoin BIP 39 ^
 - https://twitter.com/intent/tweet?text= ... - for users to click for "Just setting up my bitclout ..." Tweet
-- https://wallet.mycelium.com/ - Bitcoin wallet software
+- https://wallet.mycelium.com/ - Bitcoin wallet software mentioned and link in UI
 - https://api.imgur.com/3/image/ + 8156989fa971a3b Client-ID (header?) to upload to imgur
 - https://i.imgur.com/<name.ext> - images and pics posted by users
 - https://fontawesome.com/ - fonts and logos

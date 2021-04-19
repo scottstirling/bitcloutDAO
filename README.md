@@ -19,7 +19,7 @@ The following functions cost *Bitcoin* to get started. The prices are set by the
 
 All actions are really based on blockcypher.com and other vendors services, technology and APIs, which makes setting up the technology for BitClout primarily an orchestration of services and APIs tied together through a web UI.  All of the strongest technical aspects of BitClout are based on Cloudflare, Angular, blockcypher.com, imgur.com, various 3rd party libraries (see below) and GoDaddy's https://domainsbyproxy.com (who have a subpoena policy posted on their public site) obscuring the owners and creators behind BitClout.
 
-By the same token, the mastery orchestrating the components of the BitClout "solution" and carrying it off so far is respectable.  
+Admittedly, the mastery orchestrating the components of the BitClout "solution" and carrying it off so far is respectable.  
 
 The BitClout one pager / whitepaper (7 pages) is a masterwork of rhetoric: enthymemes and triggers to encourage readers to jump to conclusions, confirm biases and desired outcomes and act on positive emotional response rather than careful analysis.
 
@@ -56,20 +56,20 @@ Other products, projects and services used in code and refrenced in code:
 - https://fontawesome.com/ - fonts and logos
 - https://fonts.gstatic.com/, https://fonts.googleapis.com - fonts
 
-Likely source for BitClout's https://explorer.bitclout.com:
+Possible source for BitClout's https://explorer.bitclout.com:
 - https://github.com/blockcypher/explorer - BlockCypher's open source blockchain explorer project
 
 
 TODO - other related sites referenced in code:
-- https://api.bitclout.green, https://api.bitclout.blue, https://api.bitclout.navy - different API endpoints for ...?
-- megamoons.com - ?
-- https://api.bitpop.dev - ? protected by CloudFlare, seems to be used for logging activity from the UI (?)
-- bitpop.cash - ?
-- bitclout.fun - ?
+- https://api.bitclout.green, https://api.bitclout.blue, https://api.bitclout.navy - different API endpoints.
+- megamoons.com - unknown TBD
+- https://api.bitpop.dev - protected by CloudFlare, seems to be used for logging activity from the UI (?)
+- bitpop.cash - unknown use/purpose TBD
+- bitclout.fun - unknow use/purpose TBD
 
 Listing of BitClout's APIs as dervived from main.js: see https://github.com/scottstirling/bitclout/issues/20
 
-BitClout Architecture Diagram (WIP)
+BitClout Architecture Overview Diagram
 
 ![Bitclout Architecture](docs/diagram/bitclout-arch-diagram-2021-04-08.png)
 

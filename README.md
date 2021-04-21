@@ -1,5 +1,5 @@
 # UPDATE: Twetch 
-Ihas come to my attention that Twetch is another ersatz Twitter cryptocurrency scam platform so similar in look and concept to Bitclout that they are indubitably related in some way.  More to come.  See: https://medium.com/@Austerity_Sucks/i-signed-up-for-bsvs-twetch-social-media-platform-so-you-don-t-have-to-462f0db8b614
+It has come to my attention that Twetch is another ersatz Twitter cryptocurrency scam platform so similar in look and concept to Bitclout that they are indubitably related in some way.  More to come.  See: https://medium.com/@Austerity_Sucks/i-signed-up-for-bsvs-twetch-social-media-platform-so-you-don-t-have-to-462f0db8b614
 
 # ![$BitClout](src/assets/img/camelcase_logo.svg)
 This project gathers BitClout's code and offers analysis of its APIs, 3rd party integrations and architecture.

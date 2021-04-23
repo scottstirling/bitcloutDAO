@@ -1,0 +1,36 @@
+{
+  "name": "bitclout",
+  "short_name": "bitclout",
+  "description": "The crypto social network",
+  "icons": [
+    {
+      "src": "/img/logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/img/logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/img/logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/?password=f1bf8c5158787b4f50b29a6072e27cd03df3a8d71ee62ff4d8c9f928ba2ed08f",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#182026",
+  "background_color": "#FFF"
+}

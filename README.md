@@ -1,4 +1,4 @@
-# UPDATE: Twetch 
+# UPDATE: Twetch, BitClout and Decentralized Social Media Fraud
 It has come to my attention that Twetch is another ersatz Twitter cryptocurrency scam platform so similar in look and concept to Bitclout that they are indubitably related in some way.  More to come.  See: https://medium.com/@Austerity_Sucks/i-signed-up-for-bsvs-twetch-social-media-platform-so-you-don-t-have-to-462f0db8b614
 
 # ![$BitClout](src/assets/img/camelcase_logo.svg)
@@ -41,6 +41,7 @@ GitHub projects:
 - https://github.com/google/libphonenumber - "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers." 
 - https://github.com/indutny/bn.js/ - "BigNum in pure javascript"
 - https://github.com/indutny/elliptic - "Fast elliptic-curve cryptography in a plain javascript"
+- https://github.com/popperjs/popper-core - "Popper will automatically put the tooltip in the right place near the button." (tooltip management)
 - https://github.com/sweetalert2/sweetalert2 - "replacement for JavaScript's popup boxes"
 - https://github.com/twitter/twemoji - "Twemoji library offers support for 3,304 emojis"
 
@@ -78,3 +79,5 @@ BitClout Architecture Overview Diagram
 
 Related work (began as a Reddit thread in r/Bitclout):
 https://www.reddit.com/r/BitClout/comments/mhpwjx/reverse_engineering_bitclout/
+
+More analysis and related info on my Twitter: https://twitter.com/scottmstirling

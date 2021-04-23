@@ -1,7 +1,15 @@
 # BitClout, Twetch and Decentralized Social Network Money Frauds/Scams
-It has come to my attention that Twetch is another ersatz Twitter cryptocurrency scam platform so similar in look and concept to Bitclout that they are indubitably related in some way.
+Twetch is another ersatz Twitter cryptocurrency scam platform so similar in look and concept to Bitclout that they are indubitably related in some way.
 
-The commonality to these frauds is they both are centralized systems designed for extracting money from users for premium fees to execute useless blockchain transactions (for essentially rudimentary versions of the same features users can better accomplish today with Twitter and Google content storage and indexing, for example, without blockchains or Bitcoin wallets necessary at all).  They are fraudulently promoted as decentralized, when in fact they are highly centralized schees using decentralized public blockhains and open source to perpetrate fraud.
+The commonality to these frauds is they both are centralized systems designed for extracting money from users for premium fees to execute useless blockchain transactions (for essentially rudimentary versions of the same features users can better accomplish today with Twitter and Google content storage and indexing, for example, without blockchains or Bitcoin wallets or fees being necessary).
+
+They are fraudulently promoted as decentralized, when in fact they are highly centralized schees using decentralized public blockhains and open source to perpetrate fraud.
+
+Twetch is based on buying and spending Bitcoin SV and micro-fees for transactions, which themselves have fees and require use of software wallets and keys running in your web browser.
+
+BitClout is based on charging Bitcoin fees and additional costs for any and all transactions involving BitClout (which, as on Twetch with BSV coin, is required to be spent and fees paid to spend it for every action in the app) or their Creator Coin token, and also manages keys and wallets in your web browser.
+
+Both sites are released under the auspicious promise of being alpha or beta quality and the hottest new thing being developed too fast and furiously to be stable, secure or usable.  Bluntly, that is bullshit; these are fraudulent scams from tip to toe that completely lack professionalism and security features, protecting the perpetrators and their data, *not you and yours*.
 
 # ![$BitClout](src/assets/img/camelcase_logo.svg)
 This project gathers BitClout's code and offers analysis of its APIs, 3rd party integrations and architecture.
@@ -84,18 +92,19 @@ https://www.reddit.com/r/BitClout/comments/mhpwjx/reverse_engineering_bitclout/
 
 Increasing awareness of these scams, selected resources:
 ## BitClout
-• https://www.thedailybeast.com/bitclout-is-the-shady-crypto-start-up-selling-shares-in-celebs
-• https://www.techtimes.com/articles/258837/20210407/bitclout-removes-singapore-prime-minister-crypto-platform.htm
-• https://finance.yahoo.com/news/controversial-crypto-project-bitclout-faces-233043748.html
-• https://youtu.be/NBZ4v2-XynU, https://youtu.be/SsERRF39YiM - Coffeezilla Youtube channel episodes on BitClout
-• https://en.wikipedia.org/wiki/BitClout
+- https://www.thedailybeast.com/bitclout-is-the-shady-crypto-start-up-selling-shares-in-celebs
+- https://www.techtimes.com/articles/258837/20210407/bitclout-removes-singapore-prime-minister-crypto-platform.htm
+- https://finance.yahoo.com/news/controversial-crypto-project-bitclout-faces-233043748.html
+- https://youtu.be/NBZ4v2-XynU, https://youtu.be/SsERRF39YiM - Coffeezilla Youtube channel episodes on BitClout
+- https://en.wikipedia.org/wiki/BitClout
 
 ## Twetch 
-• https://medium.com/@Austerity_Sucks/i-signed-up-for-bsvs-twetch-social-media-platform-so-you-don-t-have-to-462f0db8b614
+- https://medium.com/@Austerity_Sucks/i-signed-up-for-bsvs-twetch-social-media-platform-so-you-don-t-have-to-462f0db8b614
 
-## Realted likely scams / bad ideas stemming from BitClout
-• https://withdrawbitclout.com/ 
-• https://www.giftclout.com/
-• 
+## Realted likely scams / extensions of BitClout
+- https://withdrawbitclout.com/ 
+- https://www.giftclout.com/
+- https://bitswap.network
+    - https://bitswap.network/whitepaper (proposes exchanging BitClout for Ethereum via escrow, plus gas fees) 
 
 Other analysis and related info on my Twitter: https://twitter.com/scottmstirling

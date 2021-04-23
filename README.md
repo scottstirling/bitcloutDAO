@@ -3,7 +3,7 @@ Twetch is another ersatz Twitter cryptocurrency scam platform so similar in look
 
 The commonality to these frauds is they both are centralized systems designed for extracting money from users for premium fees to execute useless blockchain transactions (for essentially rudimentary versions of the same features users can better accomplish today with Twitter itself and Google's content indexing and storage, for example, without blockchains or Bitcoin wallets or fees being necessary).
 
-They are fraudulently promoted as decentralized, when in fact they are highly centralized schees using decentralized public blockhains and open source to perpetrate fraud.
+They are fraudulently promoted as decentralized, when in fact they are highly centralized schemes using decentralized public blockhains and open source to perpetrate fraud.  BitClout has promoted itself as "open source" since launch, when in fact all of its core code remains closed source to this day (the explorer and the "desktop app" available on GitHub are peripheral).
 
 Twetch is based on buying and spending Bitcoin SV and micro-fees for transactions, which themselves have fees and require use of software wallets and keys running in your web browser.
 
@@ -39,6 +39,9 @@ The BitClout one pager / whitepaper (7 pages) is a masterwork of rhetoric: enthy
 Partial list of other projects and services referenced and used in BitClout's Angular code:
 
 GitHub projects:
+- https://github.com/bitclout/explorer - BitClout's blockchain explorer user interface
+- https://github.com/bitclout/desktop - [Electron|https://github.com/electron/electron] shell around bitclout URLs
+- https://github.com/bitclout/run - Docker container to run a BitClout node
 - https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki - Bitcoin BIP "describes the implementation of a mnemonic code or mnemonic sentence -- a group of easy to remember words -- for the generation of deterministic wallets."
 - https://github.com/bitcoinjs/bitcoinjs-lib - "A javascript Bitcoin library for node.js and browsers."
 - https://github.com/browserify/browserify - "build a bundle you can serve up to the browser in a single <script> tag."
@@ -101,9 +104,10 @@ Increasing awareness of these scams, selected resources:
 ## Twetch 
 - https://medium.com/@Austerity_Sucks/i-signed-up-for-bsvs-twetch-social-media-platform-so-you-don-t-have-to-462f0db8b614
 
-## Realted likely scams / extensions of BitClout
+## Related scam economy / BitClout ecosystem emerging in regulation vacuum
 - https://withdrawbitclout.com/ 
 - https://www.giftclout.com/
+- https://github.com/BarryMode/awesome-bitclout (list of lists of BitClout related arcana, much of it links to the site itself)
 - https://bitswap.network
     - https://bitswap.network/whitepaper (proposes exchanging BitClout for Ethereum via escrow, plus gas fees) 
 

@@ -1,7 +1,7 @@
 # BitClout, Twetch and Decentralized Social Network Money Frauds/Scams
 Twetch is another ersatz Twitter cryptocurrency scam platform so similar in look and concept to Bitclout that they are indubitably related in some way.
 
-The commonality to these frauds is they both are centralized systems designed for extracting money from users for premium fees to execute useless blockchain transactions (for essentially rudimentary versions of the same features users can better accomplish today with Twitter and Google content storage and indexing, for example, without blockchains or Bitcoin wallets or fees being necessary).
+The commonality to these frauds is they both are centralized systems designed for extracting money from users for premium fees to execute useless blockchain transactions (for essentially rudimentary versions of the same features users can better accomplish today with Twitter itself and Google's content indexing and storage, for example, without blockchains or Bitcoin wallets or fees being necessary).
 
 They are fraudulently promoted as decentralized, when in fact they are highly centralized schees using decentralized public blockhains and open source to perpetrate fraud.
 

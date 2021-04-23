@@ -60,6 +60,7 @@ GitHub projects:
 
 Other products, projects and services used in code and refrenced in code:
 - https://amp.bitclout.com - endpoint for gathering analytics about user activity and transactions to send to an Amplitude (https://www.amplitude.com/) account.
+- https://api.blockchain.info/mempool/fees - used to obtain premium fees for BitClout transactions
 - https://api.blockcypher.com/v1/btc/main/addrs/${e}/full?token=... - see blockcypher public api docs
 - https://api.blockcypher.com/v1/btc/test3/addrs/${e}/full?token... - test endpoint for ^
 - https://bitcoinfees.earn.com/api/v1/fees/recommended - gets the current price for transaction fees transacted on BitClout.

@@ -1,5 +1,5 @@
-# BitClout, Twetch and Decentralized Social Network Money Frauds/Scams
-Twetch is another ersatz Twitter cryptocurrency scam platform so similar in look and concept to Bitclout that they are indubitably related in some way.
+# BitClout, Twetch, PeakD, Steemit and Decentralized Social Network Money Frauds/Scams
+PeakD, Twetch and Steemit are all ersatz Twitter cryptocurrency scam platform so similar in look and concept to one another that they are indubitably related in some way, copying code and ideas from each other.
 
 The commonality to these frauds is they both are centralized systems designed for extracting money from users for premium fees to execute useless blockchain transactions (for essentially rudimentary versions of the same features users can better accomplish today with Twitter itself and Google's content indexing and storage, for example, without blockchains or Bitcoin wallets or fees being necessary).
 
@@ -102,6 +102,12 @@ Increasing awareness of these scams, selected resources:
 - https://finance.yahoo.com/news/controversial-crypto-project-bitclout-faces-233043748.html
 - https://youtu.be/NBZ4v2-XynU, https://youtu.be/SsERRF39YiM - Coffeezilla Youtube channel episodes on BitClout
 - https://en.wikipedia.org/wiki/BitClout
+
+## PeakD
+- https://peakd.com
+
+## Steemit
+- https://www.quora.com/Is-Steemit-a-scam
 
 ## Twetch 
 - https://medium.com/@Austerity_Sucks/i-signed-up-for-bsvs-twetch-social-media-platform-so-you-don-t-have-to-462f0db8b614

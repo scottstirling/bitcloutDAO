@@ -1,7 +1,7 @@
 # BitClout, Twetch and Decentralized Social Network Money Frauds/Scams
-It has come to my attention that Twetch is another ersatz Twitter cryptocurrency scam platform so similar in look and concept to Bitclout that they are indubitably related in some way.  More to come.  See: https://medium.com/@Austerity_Sucks/i-signed-up-for-bsvs-twetch-social-media-platform-so-you-don-t-have-to-462f0db8b614
+It has come to my attention that Twetch is another ersatz Twitter cryptocurrency scam platform so similar in look and concept to Bitclout that they are indubitably related in some way.
 
-The commonality to these frauds is they both are systems designed for extracting money from users for premium fees to execute useless blockchain transactions (for essentially rudimentary versions of the same features users can better accomplish today with Twitter and Google content storage and indexing, for example, without blockchains or Bitcoin wallets necessary at all).
+The commonality to these frauds is they both are centralized systems designed for extracting money from users for premium fees to execute useless blockchain transactions (for essentially rudimentary versions of the same features users can better accomplish today with Twitter and Google content storage and indexing, for example, without blockchains or Bitcoin wallets necessary at all).  They are fraudulently promoted as decentralized, when in fact they are highly centralized schees using decentralized public blockhains and open source to perpetrate fraud.
 
 # ![$BitClout](src/assets/img/camelcase_logo.svg)
 This project gathers BitClout's code and offers analysis of its APIs, 3rd party integrations and architecture.
@@ -12,7 +12,7 @@ Completing your profile, at minimum, requires a phone number that can receive te
 
 All image content posted by users is stored in and accessible via public cloud storage on imgur.com.
 
-Registered users can like and follow each other, post their own and promote other accounts' content, and spend Bitcoin on BitClout, then send BitClout to other wallets on the BitClout network, all of which costs, at minimum, a verified phone number and the price of Bitcoin transaction fees at current market rate (once Bitcoin has been used to purchase BitClout).  
+Registered users can like and follow each other, post their own and promote other accounts' content, and spend Bitcoin on BitClout, then send BitClout to other wallets on the BitClout network, all of which costs, at minimum, a verified phone number and the price of Bitcoin transaction fees at premium market rates plus a percentage increase (BitClout adds 1.5 * priority fee price currently, 4/23/2021) (once Bitcoin has been used to purchase BitClout).  
 
 Update 4/9/2021: Reclouting /retweeting functionality appeared overnight after some new code was deployed.
 
@@ -82,4 +82,20 @@ BitClout Architecture Overview Diagram
 Related work (began as a Reddit thread in r/Bitclout):
 https://www.reddit.com/r/BitClout/comments/mhpwjx/reverse_engineering_bitclout/
 
-More analysis and related info on my Twitter: https://twitter.com/scottmstirling
+Increasing awareness of these scams, selected resources:
+## BitClout
+• https://www.thedailybeast.com/bitclout-is-the-shady-crypto-start-up-selling-shares-in-celebs
+• https://www.techtimes.com/articles/258837/20210407/bitclout-removes-singapore-prime-minister-crypto-platform.htm
+• https://finance.yahoo.com/news/controversial-crypto-project-bitclout-faces-233043748.html
+• https://youtu.be/NBZ4v2-XynU, https://youtu.be/SsERRF39YiM - Coffeezilla Youtube channel episodes on BitClout
+• https://en.wikipedia.org/wiki/BitClout
+
+## Twetch 
+• https://medium.com/@Austerity_Sucks/i-signed-up-for-bsvs-twetch-social-media-platform-so-you-don-t-have-to-462f0db8b614
+
+## Realted likely scams / bad ideas stemming from BitClout
+• https://withdrawbitclout.com/ 
+• https://www.giftclout.com/
+• 
+
+Other analysis and related info on my Twitter: https://twitter.com/scottmstirling

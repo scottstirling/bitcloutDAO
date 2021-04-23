@@ -82,8 +82,9 @@ TODO - other related sites referenced in code:
 - https://api.bitclout.green, https://api.bitclout.blue, https://api.bitclout.navy - different API endpoints.
 - megamoons.com - unknown TBD
 - https://api.bitpop.dev - protected by CloudFlare, seems to be used for logging activity from the UI (?)
-- bitpop.cash - unknown use/purpose TBD
-- bitclout.fun - unknow use/purpose TBD
+- bitpop.cash - parent domain for potential central organization participants in collecting fees for BitClout transactions.
+- bitclout.fun - unknown use/purpose TBD
+- bitclout.me - localhost alias
 
 Listing of BitClout's APIs as dervived from main.js: see https://github.com/scottstirling/bitclout/issues/20
 

@@ -10,7 +10,7 @@ Twetch is based on buying and spending Bitcoin SV and micro-fees for transaction
 
 BitClout is based on charging Bitcoin fees and additional costs for any and all transactions involving BitClout (which, as on Twetch with BSV coin, is required to be spent and fees paid to spend it for every action in the app) or their Creator Coin token, and also manages keys and wallets in your web browser.
 
-Both sites are released under the auspicious promise of being alpha or beta quality and the hottest new thing being developed too fast and furiously to be stable, secure or usable.  Bluntly, that is bullshit; these are fraudulent scams from tip to toe that completely lack professionalism and security features, protecting the perpetrators and their data, *not you and yours*.
+Both sites are released under the auspicious promise of being alpha or beta quality and the hottest new thing being developed too fast and furiously to be stable, secure or usable.  Bluntly, that is bullshit; these are fraudulent scams from tip to toe that completely lack professionalism and security features for users; protecting the BitClout or Twetch operators and their data, *not you and yours*.
 
 # ![$BitClout](src/assets/img/camelcase_logo.svg)
 This project gathers BitClout's code and offers analysis of its APIs, 3rd party integrations and architecture.

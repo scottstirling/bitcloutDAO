@@ -1,4 +1,4 @@
-# Decentralized Social Network Money Frauds/Scams: BitClout, Twetch, PeakD, Steemit
+# Decentralized Social Network Money Frauds and DAOs: BitClout, Twetch, PeakD, Steemit
 
 BitClout, PeakD, Twetch and Steemit are all ersatz Twitter cryptocurrency scam platforms so similar in look and concept to one another that they are related, copying code and ideas from each other.
 

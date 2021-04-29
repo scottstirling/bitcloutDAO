@@ -18,7 +18,7 @@ Other Projects of Relevance and similar structure to BitClout:
 
 BitClout, PeakD, Twetch and Steemit are all ersatz Twitter cryptocurrency scam platforms so similar in look and concept to one another that they are related, copying code and ideas from each other.
 
-The commonality to these frauds is they are centralized systems designed for extracting money from users for premium fees to execute useless blockchain transactions (for rudimentary versions of the same features users have today with Twitter itself and Google's content indexing, storage and delivery network).
+The commonality to these frauds is they are centralized systems designed for extracting money from users for premium fees to execute blockchain transactions (for rudimentary versions of the same features users have today with Twitter itself and Google's content indexing, storage and delivery network).
 
 They mislead users in many fraudulent ways, including promoting overloaded and confusing meanings of "decentralized" and "open source" and "currency." They use public and private blockchain tech and APIs, open source project code produced by companies such as Google, and content delivery and security (for themselves, not their victims) services such as Cloudflare, to perpetrate financial fraud in the open.  BitClout has promoted itself as "open source" since launch, when in fact all of its core code remains closed source to this day (the explorer and the "desktop app" available on GitHub are peripheral).
 

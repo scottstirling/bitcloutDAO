@@ -1,5 +1,21 @@
 # Decentralized Social Network Money Frauds and DAOs: BitClout, Twetch, PeakD, Steemit
 
+Updates 4/29/2021
+
+https://www.coindesk.com/wyoming-dao-llc-law-passed
+
+https://coingeek.com/wyoming-senate-passes-dao-law/
+
+Other Projects of Relevance and similar structure to BitClout:
+- DUST and AlgoRand
+- SingularityNET and AGI and Cardano
+- many many more
+
+- READ THE WHITE PAPERS 
+- Look for the actual source code.
+- repeat until you give up or wake up
+
+
 BitClout, PeakD, Twetch and Steemit are all ersatz Twitter cryptocurrency scam platforms so similar in look and concept to one another that they are related, copying code and ideas from each other.
 
 The commonality to these frauds is they are centralized systems designed for extracting money from users for premium fees to execute useless blockchain transactions (for rudimentary versions of the same features users have today with Twitter itself and Google's content indexing, storage and delivery network).

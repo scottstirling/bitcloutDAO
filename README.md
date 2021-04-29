@@ -1,4 +1,4 @@
-# Decentralized Social Network Money Frauds and DAOs: BitClout, Twetch, PeakD, Steemit
+# Decentralized Social Network Money Frauds and DAOs: BitClout, Twetch, PeakD, Steemit ...
 
 Updates 4/29/2021
 

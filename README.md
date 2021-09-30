@@ -1,6 +1,8 @@
-# Decentralized Social Network Money Frauds and DAOs: BitClout, Twetch, PeakD, Steemit ...
+# Decentralized Social Network Money Frauds and DAOs: BitClout / DeSo, Twetch, PeakD, Steemit ...
 
-Updates 4/29/2021
+Updates 9/29/2021:
+
+https://www.theblockcrypto.com/post/118133/bitclout-creator-decentralized-social-blockchain-200-million-funding-a16z-others
 
 https://www.coindesk.com/wyoming-dao-llc-law-passed
 
